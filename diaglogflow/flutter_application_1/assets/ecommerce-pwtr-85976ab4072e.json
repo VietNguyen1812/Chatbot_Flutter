@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ecommerce-pwtr",
+  "private_key_id": "85976ab4072e90f4ad0aacb5f024ed009855d9fe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTq/LMk9mX5wQA\nvK60SF8mEyPoKAOHMSqWaiv6hPJQw7J7ZDT+rv6wRikhB3cFfShUWVynnxKpr48h\ny3C2R2Jb+avi/JNJqEAVv7qHlcb8xNKjcgSqihXCy1+wZihzQ19b2tOrm790A2wD\nU8lTY9HLzHLWnZZkF1K2X04vTthrN8gqcsnSrVtxhpQ0gSBhKrzhEfOW5s3UZpHT\nCMyA2uluYdG7GKSSqibribviT0/PXikd12wnVoWVX+GZ9B1fAM3W3pUnFp2DOAYP\nKX+PSsDJS1dfHjENFMlmD34TqUM/DWn8/J1dlAlJv+BSe8tOhZqF86Dumh9IUWiu\nU5kdj+iLAgMBAAECggEAAaMQn3dnP+RSpMTQybvONzz/p+x4oS4xU593k++SRitK\nm+dZp5Hn41TE6FNRSX1pzJkyUmjfBpPr1J7o/L05lqzWy6HDa9boGU2gc4BQ3SSS\nh8llHYKFijpIv6mn7MLxH687YtYzWVeAxC0nie8O23d1zeYYbdFmW4W01Osprk6T\nsScz9AYEZPVfMYKJa8xt8gNDqtrowO44FDottgGbEvxM2U/nFsSrSzvYKUsLl7tQ\nyzTbiNLSdoLyG8hpnr088q8rktV61txe2B5zmmf9uDPSDixZBDs6/UU7xdZFyJk+\nWm2LUkbOGNNZxM0uhiraOUb3i7P/IasVEsC1LfCz2QKBgQD1m4dXSwrEQ4yF3fCb\nfa9+5ELaajoFE216d7+ku6oLnVFkUvFxOEtw8eCX3PKXDOzyO6SRFS4lwtipuHmy\nGuEEMrqioYA1NjTUieIBwBWLwkkvagDHoeW25thc5X6PnFg8BS7gQ56i2Gj6SQmG\nUliWyeiwJe596xOvtImdwqzbswKBgQDcoNHNVTl817kolCd+Z87hf/Gwz8hXWzWy\ns3alMYrmxzGt1YxFHQnoSAydFzBUsdIDBAxDMqP6d1H0QCxYq1Hdt0Y/dn3oK70M\nvPFtt9dyuEb4u+tlQPe8oUfxv/LT28UdTB9asq/Cua3P0ekjuZC99zYMJD1vMTCN\nXj7co0JzyQKBgQDQv+4aXae7BIatSOO15O+CdFP1/A9wPQDx9FGom/B9iqqhEHYx\n+tz0FEEGEj8F73B8ugC3Zz8fzSoFpsuYe4wA23URwR6NG5NvifnT7wThErLNX9Vl\n18681BvVaSFWwlWkPeuHpTFxy2n+QJGd3uN41ge1n6fC0kibMGE++zWcTQKBgCS9\n23KYeMRjoIAzfAg+/WLsTbGmSLTTibPC00VbZMhd79YFNCDmXxoBtagLjo7sNg8u\ng2RFcK1rZYiJj1kM3stPlDFJaFpbvlX6uTIOZaDDM36EvQTVtuwA59xInQXPGZpx\nbN9L1p1VEq8DRBIg+wvHuYZ4GosD5BQG1+0iexSRAoGBANWnw/pM6RxVjMdKdlZv\nqwxtPkbFa82xuwvclcunFr8rzlWVUli7tpw6e85gtfCHBXgF9vApvBcU1ZsPJbMa\nh0GnVKXfoS5wkgrIJyeYcyhlNkc+BunjVF+1nBJJ4uzwI74CnvAT0CRjci32m/T7\nBz8pA9emtbNYV8WCCdqMtg9u\n-----END PRIVATE KEY-----\n",
+  "client_email": "cupcakebot@ecommerce-pwtr.iam.gserviceaccount.com",
+  "client_id": "104806738671372746921",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cupcakebot%40ecommerce-pwtr.iam.gserviceaccount.com"
+}

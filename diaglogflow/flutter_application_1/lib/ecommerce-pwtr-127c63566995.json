@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ecommerce-pwtr",
+  "private_key_id": "127c63566995d99f37311c02db5a859bb6b358ff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVYX8nD2sRlDpZ\nFadcYrgwPeSHyLywYFWtXuLQVdKjyCqSZNsKc97AkQjJSuemiFhL8RGKqfIjVBVD\nRv1+RVcl0bDLnGtUaFT9UChGgZeOuGzO3DFCgx1XsksHr3/L0bTp7UNo9iBDszy/\nyC9k+9JJ+8EjOwdYZruZq6Xad9B5NU81FEesQxI+bESQ9rdNB7Y2PmL5YLx+cDzj\n+EILhvwMdQNGFxi2JmNj0/PGgNQKpUMmTZ1SpTcQbaE/xywwVfTSsMH1g1AHyh9C\nKIsLAiBGoWrWM+DCx4wjfl/dXhyYTm4g9+qK+Jfd7Tz2V1d7jrRKwGucmmCXh48E\n/Crz2BNFAgMBAAECggEAHm8zBxu0XkQBlH45qjwsYDkbtOBFRXTgE4PSnvt2uUSO\nCeZXtaR0M4wcMDW+V6rfySkfouL9dduC0t83vcBfHzZK3Ke5SUc+RAkgTXojZ0hX\nwKN4ZS+1SjJUcEqwVB5bivf74uckD/PrKMGBPQqL4mCFmiRLtmikvlTUqZXoRrk4\nd6iBJoc8YQz0rtsr5sQeaa/BEIsrr6mRUXtmNcE2uXtBEA6HggI5qiVku6ZmAnK8\nOBkN+rqzpIWpIj50mbuD4peO4t6OPcj4fzyzcnOeGNyGNeb4GcPIU7bkkKmeyhQI\nbKGmOMeDuMylIiF3XrwPM59UmDWkunt4h/cf5frr+wKBgQD6cGOBUWizVfrAKW7O\nAdfm3Y2i7X3rwC3uwasJMBPLqoQ1oHMaFNkAwPc5Jo1Uk0XJoW100AOnSjXZJ2xL\nn8c8e+MLZrJc60m3FdpF3SB66fGX9zAqDxcHwptu6ZQ5RtXRntm7xn51vWdDvWnR\ns9Yyg+I2fDzBQUPNVunUakxcZwKBgQDaHnPDBscsy62LCYdsy0n1qouszIUMua2t\nLeFhacTDAdqa3O60YgSrBgdqOqSedXn+kdX7WuM5t9vaVmXWFYEpCJ1/t6bd0oKC\nDE/zEZ3EE8B8mqbRH7wEYqkenl0NpzKDpmrXyc+ir81VCx7OMxfpS3KVmJaPypll\nNaIOGIZHcwKBgQCnshIvSb/+NhiODDByKbHUmY56BuVGs40OTwikQlk/C5M0BZiN\nYmBcrNnenv4MIAGfHkUY7yFDJ+Ie4tMVYIwc6CgEPmQ47CSUQEHEfml9ZKGtzIun\n3irhu2IxRp9GKzSKBQBvSF7toEJBjdgJ344SjVUwfsh/75/jI8u3vOYdCQKBgFnX\nRTNFbXCkDD1ClYdYTIRl1NY9/2d4a3LzfOvU1vjDoLk82w1teiK/fvpgYUHrfW4/\nv3WiwAkcE/Bgud1uSh8Or2DV0mN3u825KI0j6mnDAPvR73gfrB/aS3KTJBzli0by\nmvt64o1OADNRO0UPgn/TVcUMbqeXeYtYhgFsVJLFAoGBANenZCzw9H0C+dQh+qAP\n5p9IIv3mAJqYZbO50JIr01Fei7afSn/RYvL85wUxx8EkQBeAC+tlder/vlYvEtAI\nr2jmElpZSamxda6tZ89I3Q1QTWvUlEN1s+iAKGYVbe+DSJK/3RJj8xidc4jjLSx4\njbf4aIpx6LtvgIQHUx0SH+5y\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot-tutorial-flutter@ecommerce-pwtr.iam.gserviceaccount.com",
+  "client_id": "111074742212603216045",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-tutorial-flutter%40ecommerce-pwtr.iam.gserviceaccount.com"
+}
